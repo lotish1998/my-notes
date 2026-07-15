@@ -1,1 +1,1 @@
-# Furniture CAD Plugin
+# Мої нотатки (версія А)
